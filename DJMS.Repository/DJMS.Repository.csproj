@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DJMS.Common\DJMS.Common.csproj" />
+    <ProjectReference Include="..\DJMS.Models\DJMS.Models.csproj" />
+  </ItemGroup>
+
+</Project>

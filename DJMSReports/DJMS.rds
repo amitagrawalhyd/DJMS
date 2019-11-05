@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="DJMS">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>server=AMITDESKTOP\SQLEXPRESS;database=DJMS;MultipleActiveResultSets=true;integrated security=True</ConnectString>
+    <IntegratedSecurity>true</IntegratedSecurity>
+  </ConnectionProperties>
+  <DataSourceID>b18dc1fb-e61d-4eb7-9b9a-728ed7c8f6da</DataSourceID>
+</RptDataSource>
